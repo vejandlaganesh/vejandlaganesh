@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Vejandla Ganesh
 
-<!--
-**VGanesh-coder/VGanesh-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Graduate in Computer Science (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Engineer
+
+🌱 Currently Learning
+- TypeScript
+- React
+- Playwright
+- System Design
+
+---
+
+## 🛠 Skills
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Tools
+- React
+- Playwright
+- Git
+- GitHub
+- VS Code
+
+### Machine Learning
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- Pandas
+- NumPy
+
+---
+
+## 📂 Featured Projects
+
+### Facial Recognition Attendance System
+- Face Recognition using OpenCV
+- Automated Attendance System
+
+### Heart Disease Prediction
+- Machine Learning
+- Scikit-learn
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *www.linkedin.com/in/vejandla-ganesh*
+- Email: *ganeshvejandla@gmail.com*
