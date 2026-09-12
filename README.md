@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vejandla Ganesh</h1>
 
-<p align="center">
-  <b>AI/ML • Generative AI • Full Stack Development • QA Automation</b>
-</p>
+<p align="center"> <strong>AI/ML • Generative AI • Full Stack Development • QA Automation</strong> </p>
 
-<p align="center">
-  <a href="https://github.com/vejandlaganesh">
-    <img src="https://komarev.com/ghpvc/?username=vejandlaganesh&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
-  </a>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer;Generative+AI+Developer;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Intelligent+Applications;Always+Learning+%26+Building" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Generative+AI+Enthusiast;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Intelligent+Software" alt="Typing SVG"/>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vejandlaganesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+
+<p align="center"> <a href="https://github.com/vejandlaganesh"> <img src="https://img.shields.io/github/followers/vejandlaganesh?label=Followers&style=for-the-badge" /> </a> <a href="https://github.com/vejandlaganesh?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
