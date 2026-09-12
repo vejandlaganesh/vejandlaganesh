@@ -1,57 +1,40 @@
 <h1 align="center">Hi 👋, I'm Vejandla Ganesh</h1>
 
 <p align="center">
-  <strong>AI/ML • Generative AI • Full Stack Development • QA Automation</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer;Generative+AI+Developer;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Intelligent+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vejandlaganesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <b>AI/ML • Generative AI • Full Stack Development • QA Automation</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/vejandlaganesh">
-    <img src="https://img.shields.io/github/followers/vejandlaganesh?label=Followers&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=vejandlaganesh&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/vejandlaganesh?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Generative+AI+Enthusiast;Full+Stack+Developer;QA+Automation+Enthusiast;Building+Intelligent+Software" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech graduate specializing in **Artificial Intelligence & Machine Learning**.
+I'm a **B.Tech graduate specializing in Artificial Intelligence & Machine Learning**, with hands-on experience across **Generative AI, Full Stack Development, and QA Automation**.
 
-💻 Passionate about **Generative AI, Full Stack Development, Software Engineering, and QA Automation**.
+I enjoy building applications that combine **AI capabilities with practical software engineering**, from intelligent learning platforms and creative AI systems to automation frameworks.
 
-🤖 Interested in building intelligent applications using **AI, Machine Learning, LLMs, and modern web technologies**.
+### 🔎 Areas I Work With
 
-🌐 Experienced in developing full-stack applications using **JavaScript, React, Node.js, Express.js, REST APIs, and MySQL**.
-
-🧪 Interested in software quality and test automation using **Playwright, Karate, API Testing, UI Testing, and Page Object Model (POM)**.
-
-🧠 Strong foundation in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, OOP, databases, and software engineering**.
-
-🚀 Always learning, building, experimenting, and improving.
-
----
-
-# 💼 Open To Opportunities
-
-* 🚀 Software Engineer
-* 💻 Full Stack Developer
-* 🤖 AI / Machine Learning Engineer
-* 🧠 Generative AI Engineer
-* 🧪 QA Automation Engineer
-* 🔧 Backend Developer
-* 🤝 Open Source Contributor
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Generative AI & LLMs
+* 🌐 Full Stack Web Development
+* ⚙️ Backend & REST API Development
+* 🧪 QA Automation & Testing
+* 🗄️ Database Development
+* 🏗️ Software Engineering
 
 ---
+
+
 
 # 🛠️ Tech Stack
 
@@ -123,166 +106,170 @@
 <img src="https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge"/>
 </p>
 
+
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 NewEdu — Full Stack AI-Powered Learning Platform
+## 🎓 NewEdu
 
-> A full-stack Generative AI-powered learning platform designed to provide personalized and interactive learning experiences.
+### Full Stack AI-Powered Learning Platform
 
-### ✨ Highlights
+NewEdu is a **Generative AI-powered learning platform** focused on creating personalized and interactive learning experiences.
 
-* 🤖 AI-powered learning assistance
-* 🧠 Generative AI content generation
+**What I built**
+
+* 🤖 AI-driven content generation
+* 🧠 Intelligent learning assistance
 * 📚 Personalized learning experiences
-* ⚡ Intelligent educational features
-* 🔐 Authentication and user management
-* 📊 Interactive student experience
-* 🔌 REST API integration
-* 🗄️ MySQL database integration
+* ⚡ AI-powered educational features
+* 🔌 Scalable REST APIs
 * 🏗️ Modular backend architecture
+* 🗄️ MySQL database integration
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
-`HTML5` • `CSS3` • `JavaScript` • `Node.js` • `Express.js` • `MySQL` • `Generative AI` • `GROQ API` • `REST APIs` • `Git` • `GitHub`
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MySQL` `Generative AI` `GROQ API` `REST APIs`
 
 🔗 **Repository:**
 https://github.com/vejandlaganesh/NEWEDU
 
 ---
 
-## 🎬 Scriptoria AI — Generative AI Film Pre-Production System
+## 🎬 Scriptoria AI
 
-> A Generative AI-powered platform that helps filmmakers and production teams transform film concepts into structured pre-production workflows.
+### Generative AI Film Pre-Production System
 
-### ✨ Highlights
+Scriptoria is a **Generative AI-powered film pre-production platform** designed to help transform creative ideas into structured production workflows.
 
-* 🤖 AI screenplay generation
+**Key Features**
+
+* 📝 AI screenplay generation
 * 👤 AI character generation
-* 🎬 Scene and shot planning
+* 🎬 Scene & shot planning
 * 🎥 Cinematic shot planning
 * 🎨 Storyboard generation
 * 📅 Production scheduling
 * 💰 Budget management
 * 🧠 AI production optimization
-* 📊 Project analytics
-* 📄 Production PDF reports
-* 🔐 Authentication and project security
+* 📊 Production analytics
+* 📄 PDF production reports
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
-`Python` • `Django` • `MySQL` • `Groq API` • `Pydantic` • `ReportLab` • `Pillow` • `Gunicorn` • `Nginx`
+`Python` `Django` `MySQL` `Groq API` `Pydantic` `ReportLab` `Pillow`
 
 🔗 **Repository:**
 https://github.com/vejandlaganesh/Scriptoria
 
 ---
 
-## 🏙️ UrbanVerse — Generative AI Smart City Planning Platform
+## 🏙️ UrbanVerse
 
-> A Generative AI-powered smart city planning platform focused on intelligent urban planning, visualization, and data-driven decision making.
+### Generative AI Smart City Planning Platform
 
-### ✨ Highlights
+UrbanVerse is a **Generative AI-powered smart city planning platform** focused on intelligent urban planning and decision-making.
 
-* 🤖 Generative AI integration
+**Key Areas**
+
+* 🤖 Generative AI
 * 🏙️ Smart city planning
-* 🗺️ Urban development visualization
+* 🗺️ Urban development
 * 📊 Data-driven planning
 * 🧠 AI-assisted decision making
-* 🌐 Interactive web platform
-* 📋 Planning and project management workflows
+* 🌐 Interactive web application
+* 📋 Planning workflows
 
-### 🎯 Focus
+**Focus**
 
-`Generative AI` • `Smart Cities` • `Urban Planning` • `AI Applications` • `Full Stack Development`
+`Generative AI` `Smart Cities` `Urban Planning` `AI Applications` `Full Stack Development`
 
 ---
 
 ## 🧪 Playwright Automation Framework
 
-> A reusable test automation framework designed to improve scalability, maintainability, and regression test coverage.
+### Reusable Test Automation Framework
 
-### ✨ Highlights
+A reusable automation framework designed around **Playwright and Page Object Model (POM)** to create maintainable and scalable automated tests.
 
-* 🧪 Playwright-based automation
-* 🏗️ Page Object Model (POM)
-* 🔄 Reusable automation components
-* 🔐 Login workflow automation
-* 📝 Form validation testing
-* 📊 CRUD operation testing
+**Key Features**
+
+* 🧪 Playwright automation
+* 🏗️ Page Object Model
+* 🔐 Login automation
+* 📝 Form validation
+* 📊 CRUD testing
 * 📄 Pagination testing
-* 📊 Data-driven testing with ExcelJS
+* 📈 Data-driven testing
+* 📊 ExcelJS integration
 * ⚡ Dynamic element handling
-* 🔄 Synchronization and reusable utilities
-* 🛡️ Stable and maintainable test execution
+* 🔄 Reusable utilities
+* 🛡️ Synchronization handling
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
-`JavaScript` • `Playwright` • `ExcelJS` • `Page Object Model` • `UI Testing` • `Regression Testing`
+`JavaScript` `Playwright` `ExcelJS` `POM` `UI Testing` `Regression Testing`
 
 ---
 
 # 🎯 Current Focus
 
-<p align="center">
-
-`Generative AI` • `LLMs` • `AI/ML` • `Full Stack Development` • `Playwright` • `REST APIs` • `Backend Development` • `System Design`
-
-</p>
+```text
+Generative AI
+Large Language Models
+Artificial Intelligence & Machine Learning
+Full Stack Development
+Backend Development
+REST APIs
+Playwright Automation
+Software Engineering
+System Design
+```
 
 ---
 
 # 📜 Certifications
 
-* 🏆 **Software Engineer Intern** — HackerRank | 2026
-* 🧠 **Advanced Prompting in GPT-4** — Adobe Learning Manager | 2026
-* 🗄️ **SQL (Intermediate)** — HackerRank | 2026
-* 🔄 **SDLC – Software Development Life Cycle** — Udemy | 2026
-* 🐍 **Python Programming** — Aajhub | 2025
-* 🌐 **Full Stack Web Development** — Aajhub | 2025
+🏆 **Advanced Prompting in GPT-4**
+Adobe Learning Manager • 2026
+
+🗄️ **SQL (Intermediate)**
+HackerRank • 2026
+
+🔄 **SDLC – Software Development Life Cycle**
+Udemy • 2026
+
+🐍 **Python Programming**
+Aajhub • 2025
+
+🌐 **Full Stack Web Development**
+Aajhub • 2025
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vejandlaganesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejandlaganesh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vejandlaganesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejandlaganesh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vejandlaganesh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vejandlaganesh&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vejandlaganesh&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vejandlaganesh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vejandla-ganesh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ganeshvejandla@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vejandlaganesh">
@@ -293,8 +280,10 @@ https://github.com/vejandlaganesh/Scriptoria
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">
+  <b>Building with AI. Engineering with purpose. 🚀</b>
+</p>
 
 <p align="center">
-  <i>Always Learning • Always Building • Always Improving 🚀</i>
+  <i>Always Learning • Always Building • Always Improving</i>
 </p>
